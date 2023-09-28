@@ -1,2 +1,2 @@
 # node
-training with node.j
+training with node.js

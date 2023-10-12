@@ -1,9 +1,9 @@
 const user = {
-    name: 'khaled Bribri',
-    campus: 'strasbourg'
-}
+  name: "khaled Bribri",
+  campus: "strasbourg",
+};
 
 module.exports = {
-    name: user.name,
-    campus: user.campus
+  name: user.name,
+  campus: user.campus,
 };
